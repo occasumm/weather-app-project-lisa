@@ -84,7 +84,6 @@ p {
   font-size: 17px;
 }
 .linkgit {
-  display: block;
   position: relative;
-  left: 300px;
+  left: 200px;
 }
