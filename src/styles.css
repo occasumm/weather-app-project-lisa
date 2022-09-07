@@ -85,5 +85,6 @@ p {
 }
 .linkgit {
   display: block;
-  padding-left: 25px;
+  position: relative;
+  left: 30px;
 }
